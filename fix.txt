@@ -1,0 +1,9 @@
+The following dependency needs to be added:
+
+```xml
+<dependency>
+	<groupId>org.openjfx</groupId
+	<artifactId>javafx-web</artifactId
+	<version>17.0.9</version
+</dependency>
+```
